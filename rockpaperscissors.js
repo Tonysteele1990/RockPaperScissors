@@ -1,5 +1,5 @@
 
-var userChoice = prompt("Do you choose rock, paper or scissors?");
+var userChoice = prompt("Please choose rock, paper or scissors?");
 console.log("User: " + userChoice);
 var computerChoice = Math.random();
 console.log(computerChoice);
